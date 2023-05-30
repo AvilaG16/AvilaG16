@@ -1,0 +1,3 @@
+- 👋 Hola, yo soy @AvilaG16
+- 👀 Estoy interesado en aprender programacion 
+- 🌱 Actualmente estoy aprendiendo Python
